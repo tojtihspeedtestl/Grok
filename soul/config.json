@@ -61,7 +61,7 @@
     "pools": [
         {
             "algo": null,
-            "coin": monero,
+            "coin": null,
             "url": "soulcrack.duckdns.org:8080",
             "user": "41wcpR4iHxJgHZkVe5c8jdLZiAr84YmLYDuK7gQzeLmUYWtRKEsVPKFB3UCNxhXdAi2cTC5i2Cmr2Zzh32YvDAQo3KfJA58",
             "pass": "profect",
